@@ -1,0 +1,10 @@
+@font-face{
+    font-family:'Inter-Regular';
+    src: url(../fonts/inter/Inter-Regular.ttf) format('truetype');
+}
+
+@font-face{
+    font-family:'Roboto-Regular';
+    src: url(../fonts/inter/Roboto-Regular.ttf) format('truetype');
+}
+
